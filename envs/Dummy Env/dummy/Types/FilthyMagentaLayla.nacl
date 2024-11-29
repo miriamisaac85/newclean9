@@ -12,20 +12,8 @@ type dummy.FilthyMagentaLayla {
   boolean SubstantialEmeraldSashenka {
     _hidden_value = true
   }
-  PhysicalAzureIngeberg = 378
-  SpotlessSilverAdelaide = false
-  TopAmaranthCourtney = 580
+  PhysicalAzureIngeberg = 715
+  SpotlessSilverAdelaide = true
+  TopAmaranthCourtney = 313
   _hidden_value = true
-  _self_important_values = [
-    {
-      value = "TopAmaranthCourtney"
-      highlighted = true
-      indexed = true
-    },
-    {
-      value = "PhysicalAzureIngeberg"
-      highlighted = false
-      indexed = true
-    },
-  ]
 }
