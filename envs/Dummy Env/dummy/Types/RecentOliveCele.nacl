@@ -22,24 +22,10 @@ type dummy.RecentOliveCele {
   string ItchyPinkMady {
     _hidden_value = true
   }
-  TheoreticalAmethystAshlie = 402
-  OpenCoralLeola = "My first time using an elevator was an uplifting experience. The second time let me down."
-  ShinyLimePrue = false
-  WelcomeApricotMargaretha = "Dad Im hungry  Hi hungry Im dad"
-  LazyIvoryCeciley = "Why did the tomato blush? Because it saw the salad dressing."
+  TheoreticalAmethystAshlie = 619
+  OpenCoralLeola = "What do you call two barracuda fish?  A Pairacuda!"
+  ShinyLimePrue = true
+  WelcomeApricotMargaretha = "Did you know that protons have mass? I didn't even know they were catholic."
+  LazyIvoryCeciley = "I was fired from the keyboard factory yesterday.  I wasn't putting in enough shifts."
   _hidden_value = true
-  _important_values = [
-    {
-      value = "SleepyBlueBinny"
-      highlighted = true
-      indexed = true
-    },
-  ]
-  _self_important_values = [
-    {
-      value = "ShinyLimePrue"
-      highlighted = true
-      indexed = false
-    },
-  ]
 }
